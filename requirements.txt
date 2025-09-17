@@ -1,0 +1,13 @@
+# Netzwerk-Heuristiken Suite - Python-Abhängigkeiten
+
+# DNS-Analyse
+dnspython>=2.3.0
+
+# HTTP-Anfragen
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Optional: Für erweiterte Funktionen
+# cryptography>=3.4.8  # Für DNS-over-TLS
+# aiohttp>=3.8.0      # Für asynchrone HTTP-Anfragen
+# psutil>=5.9.0       # Für System-Informationen
